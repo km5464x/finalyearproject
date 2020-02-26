@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4a7d370a-ac07-4c0c-a8bf-88f8053f82c8/resourceGroups/Finalyearproject/providers/Microsoft.Web/sites/KhadarsFinalyearproject",
+    "appService.deploySubpath": ""
+}
