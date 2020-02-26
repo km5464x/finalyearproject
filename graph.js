@@ -7,7 +7,7 @@
         'https://www.googleapis.com/auth/yt-analytics.readonly',
         'https://www.googleapis.com/auth/youtube.readonly'
       ];
-      
+      //add the google Oauth
       var ONE_MONTH_IN_MILLISECONDS = 1000 * 60 * 60 * 24 * 30;
     
       // Keeps track of the currently authenticated user's YouTube user ID.
