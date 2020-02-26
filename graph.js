@@ -1,4 +1,5 @@
 
+    //test
     (function() {
       // Retrieve your client ID from the Google APIs Console at
       // https://code.google.com/apis/console.
@@ -7,8 +8,7 @@
         'https://www.googleapis.com/auth/yt-analytics.readonly',
         'https://www.googleapis.com/auth/youtube.readonly'
       ];
-      <script src="https://apis.google.com/js/platform.js" async defer></script>
-      <meta name="google-signin-client_id" content="1077762067198-raq3luougsalff8pop8igti3340gm22c.apps.googleusercontent.com"></meta>
+      
       var ONE_MONTH_IN_MILLISECONDS = 1000 * 60 * 60 * 24 * 30;
     
       // Keeps track of the currently authenticated user's YouTube user ID.
