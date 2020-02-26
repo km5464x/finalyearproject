@@ -1,5 +1,4 @@
 
-    //testas
     (function() {
       // Retrieve your client ID from the Google APIs Console at
       // https://code.google.com/apis/console.
